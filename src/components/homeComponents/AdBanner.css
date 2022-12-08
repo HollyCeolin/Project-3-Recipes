@@ -1,0 +1,41 @@
+.new-recipe-h3 {
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 15px;
+}
+
+.recipe-description-h3 {
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.recipe-title-h1 {
+    color: orange;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 15px;
+}
+
+.blue-btn {
+    background-color: rgb(82, 144, 134);
+}
+
+.ad-banner {
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.recipe-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 65%;
+}

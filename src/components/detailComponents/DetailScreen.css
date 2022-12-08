@@ -1,0 +1,67 @@
+.detail-screen-banner {
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: cover !important;
+
+}
+
+.recipe-left-card-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: auto;
+    width: auto;
+    background-color: white;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2 px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+    padding-bottom: 10px;
+    width: 30%;
+}
+
+.detail-h3-styles {
+    padding: 10px 0 10px 0;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.detail-ul-styles {
+    list-style: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.detail-ul-styles li {
+    padding: 5px 0 5px 10px;
+}
+
+.detail-top-content{
+    text-align: left;
+}
+
+.detail-h3-container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.instructions-container {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: auto;
+    background-color: white;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2 px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+    width: 30%;
+}
+
+.detail-container {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+.instructions-p-styles {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0 10px 10px 10px;
+}
